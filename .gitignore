@@ -19,3 +19,11 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+public/javascripts/i18n.js
+public/javascripts/translations.js
+app/assets/javascripts/i18n/translations.js
+public/uploads
+.idea
+.env
+coverage
